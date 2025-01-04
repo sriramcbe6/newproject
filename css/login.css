@@ -45,7 +45,7 @@ body{
 .container .login-form{
     position: relative;
     margin-top: 16px;
-    min-height: 270px;
+    min-height: 250px;
     background-color: #fff;
     overflow: hidden;
 }
